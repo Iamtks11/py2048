@@ -14,7 +14,7 @@ type in command line
 - W - Up
 - S - Down
 - D - Right
-#CONTACT
+# CONTACT
 Contact to this email address for any feedbacks and suggestions.
 - tusharkhorwal11@gmail.com
 
